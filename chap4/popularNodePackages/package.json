@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "moment": "^2.29.1",
+    "optimist": "^0.5.2",
+    "underscore": "^1.13.1"
+  }
+}
